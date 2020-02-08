@@ -12,6 +12,8 @@ pkg update
 
 pkg upgrade -y
 
+pkg install nano
+
 pkg install git
 
 pkg install bash
@@ -31,6 +33,8 @@ NOT USE :
 pkg update
 
 pkg upgrade -y
+
+pkg install nano
 
 pkg install git
 

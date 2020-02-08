@@ -1,5 +1,5 @@
 #!/bin/bash
 
-echo 'what is your name ?'
+echo 'What Is Your Name ?'
 read name
-echo 'hello, '$name
+echo 'Hello, '$name
